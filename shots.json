@@ -1,0 +1,6 @@
+[
+ {"name":"1-cover.jpg","query":"shot=cover&photos=pier,boulevard,sunset&caption=Sunset%20Heist&size=1920x1080&layout=strip&grade=sunset","width":1280,"height":720},
+ {"name":"2-editor.jpg","query":"shot=editor&photos=boulevard,pier&caption=Boulevard%20Queen&size=1920x1080&layout=strip&grade=sunset","width":1280,"height":720},
+ {"name":"3-cover-portrait.jpg","query":"shot=cover&photos=boulevard,pier,neon&caption=Boulevard%20Queen&size=1080x1350&layout=poster&grade=neon","width":1024,"height":1280},
+ {"name":"4-cover-square.jpg","query":"shot=cover&photos=boulevard,pier,sunset,neon&caption=Neon%20Nights&size=1080x1080&layout=grid&grade=neon","width":1080,"height":1080}
+]
